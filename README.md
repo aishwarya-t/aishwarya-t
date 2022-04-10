@@ -1,6 +1,6 @@
-### Hi there 👋
+<img width="895" alt="Screen Shot 2022-04-09 at 7 50 46 PM" src="https://user-images.githubusercontent.com/66351580/162599138-7b05686b-37ea-424d-8c7b-b01f26f41bd2.png">
 
-I'm a 1st year Computer Science Major at UCI!  
+### Hi there! I'm Aishwarya, a 1st year Computer Science Major at UCI.
 Checkout my [LinkedIn](https://www.linkedin.com/in/aishwarya-thadiparthi-b196731b2/)!
 <!--
 **aishwarya-t/aishwarya-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
