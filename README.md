@@ -4,7 +4,7 @@
 
 I am deeply passionate about the intersection between computer science and business. As I further my college career, I hope to continuously explore opportunities that encompass my interests. I also hope to meet incredible people and work on engaging, unique projects to assist in fostering my growth in the tech industry! 🚀
 
-Let's get in touch! Find me on [**LinkedIn**](https://www.linkedin.com/in/aishwarya-thadiparthi-b196731b2/) or send me an [**email**](taishwarya@outlook.com).
+Let's get in touch! Find me on [**LinkedIn**](https://www.linkedin.com/in/aishwarya-thadiparthi-b196731b2/) or send me an [**email**](mailto:taishwarya@outlook.com).
 <!--
 **aishwarya-t/aishwarya-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
