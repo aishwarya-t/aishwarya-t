@@ -1,6 +1,6 @@
 <img width="895" alt="Screen Shot 2022-04-09 at 7 50 46 PM" src="https://user-images.githubusercontent.com/66351580/162599138-7b05686b-37ea-424d-8c7b-b01f26f41bd2.png">
 
-### Hi there! I'm Aishwarya, a 1st year Computer Science Major at UCI.
+### Hi there! I'm Aishwarya, a 2nd year Computer Science Major at UCI.
 
 I am deeply passionate about the intersection between computer science and business. As I further my college career, I hope to continuously explore opportunities that encompass my interests. I also hope to meet incredible people and work on engaging, unique projects to assist in fostering my growth in the tech industry! 🚀
 
